@@ -1,0 +1,10 @@
+com\dibasbehera\spring\config\CORSFilter.class
+com\dibasbehera\spring\dao\BookDAO.class
+com\dibasbehera\spring\dao\BookDAOImpl.class
+com\dibasbehera\spring\service\BookService.class
+com\dibasbehera\spring\config\WebConfig.class
+com\dibasbehera\spring\config\MyWebAppInitializer.class
+com\dibasbehera\spring\config\AppConfig.class
+com\dibasbehera\spring\model\Book.class
+com\dibasbehera\spring\controller\BookController.class
+com\dibasbehera\spring\service\BookServiceImpl.class
